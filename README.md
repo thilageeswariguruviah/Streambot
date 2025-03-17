@@ -20,8 +20,8 @@ Ensure you have the following installed:
 ## Installation
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/thilageeswariguruviah/whatsbot-chatbot.git
-cd whatsbot-chatbot
+git clone https://github.com/thilageeswariguruviah/Streambot.git
+cd Streambot
 ```
 
 2. **Install Dependencies**
